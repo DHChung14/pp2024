@@ -10,9 +10,4 @@ Student Info
 =========================
 
 * Student Name: Do Hong Chung
-<<<<<<< HEAD
 * Student ID: 22BA13055
-=======
-* Student ID: 22BA13055
-
->>>>>>> f801d676df97071a53eeb82b5f84a569a03f2d6f
